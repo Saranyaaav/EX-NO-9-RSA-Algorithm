@@ -31,7 +31,7 @@ Step 4: Mathematical Representation
 - Encryption: \( E(m) = m^e \mod n \)
 - Decryption: \( D(c) = c^d \mod n \)
 
-Step 5: **Security Foundation  
+Step 5: Security Foundation  
 The security of RSA relies on the difficulty of factoring large numbers; thus, choosing sufficiently large prime numbers for \( p \) and \( q \) is crucial for security.
 
 ## Program:
